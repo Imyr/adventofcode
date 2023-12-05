@@ -13,5 +13,3 @@ for card in cards:
     total += 0 if wins==-1 else 2**wins
 
 print(total)
-    
-

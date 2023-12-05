@@ -24,4 +24,3 @@ for i in range(len(cards)):
     total += mult[i]
     
 print(total)
-
